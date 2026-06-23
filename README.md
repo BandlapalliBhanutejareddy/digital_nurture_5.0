@@ -28,4 +28,5 @@ The exercises were implemented and tested using JDK 17.
 
 ## Author
 
-Bandlapalli Bhanu Teja Reddy
+BANDLAPALLI BHANUTEJA REDDY
+
