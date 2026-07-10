@@ -1,32 +1,31 @@
-# Cognizant Digital Nurture 5.0 - Java FSE
+# Cognizant Digital Nurture 5.0
 
 ## Overview
+This repository contains my coursework from the Digital Nurture 5.0 Java FSE program.
 
-This repository contains my solutions for the Cognizant Digital Nurture 5.0 Java FSE learning program.
+## Week-wise Progress
+- Week 1: Design Patterns
+- Week 2: Data Structures and Algorithms
+- Week 3: PL/SQL Programming
+- Week 4: Test Driven Development and Logging
 
-The exercises were implemented and tested using JDK 17.
-
-## Modules Completed
-
-### Module 1 - Design Patterns
-
-- Exercise 1: Singleton Pattern
-- Exercise 2: Factory Method Pattern
-
-### Module 2 - Data Structures and Algorithms
-
-- Exercise 2: E-commerce Search Function
-- Exercise 7: Financial Forecasting
-
-## Technologies Used
-
-- Java
-- Object Oriented Programming
-- Design Patterns
-- Data Structures and Algorithms
+## Prerequisites
 - JDK 17
+- Oracle SQL Developer
+- Maven
+- Git
+- VS Code
 
-## Author
+## Tools Used
+- Java
+- SQL
+- Maven
+- Git
+- VS Code
 
-BANDLAPALLI BHANUTEJA REDDY
+## Repository Structure
+- Week 1: Module 1 Design Patterns
+- Week 2: Module 2 DSA
+- Week 3: Module 3 PL/SQL Programming
+- Week 4: Module 4 TDD and Logging
 
