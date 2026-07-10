@@ -1,9 +1,0 @@
-CREATE OR REPLACE FUNCTION square_number(
-    n NUMBER
-)
-RETURN NUMBER
-IS
-BEGIN
-    RETURN n * n;
-END;
-/
