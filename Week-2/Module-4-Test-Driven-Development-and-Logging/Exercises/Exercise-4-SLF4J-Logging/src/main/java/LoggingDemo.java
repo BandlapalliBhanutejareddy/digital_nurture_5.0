@@ -5,7 +5,6 @@ public class LoggingDemo {
     private static final Logger logger = LoggerFactory.getLogger(LoggingDemo.class);
 
     public void run() {
-        // TODO: Add validation for negative input in future.
         logger.info("Application started");
         logger.debug("Debug message for development");
         logger.warn("Warning message generated");

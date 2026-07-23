@@ -11,7 +11,6 @@ public class Calculator {
         return a * b;
     }
 
-    // TODO: Add support for decimal calculations later.
     public int divide(int dividend, int divisor) {
         if (divisor == 0) {
             throw new IllegalArgumentException("Divisor cannot be zero");
