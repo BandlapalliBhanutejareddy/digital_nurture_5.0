@@ -1,7 +1,14 @@
-﻿package com.example;
+package com.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Exercise-3-Inter-Service-Communication exercise ready.");
+        OrderClient client = new OrderClient();
+        System.out.println(client.getOrderStatus(1001));
+    }
+
+    static final class OrderClient {
+        String getOrderStatus(int orderId) {
+            return "Order " + orderId + " status: SHIPPED";
+        }
     }
 }
