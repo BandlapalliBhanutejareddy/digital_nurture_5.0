@@ -1,31 +1,15 @@
-# Cognizant Digital Nurture 5.0
+# Digital Nurture 5.0
 
-## Overview
-This repository contains my coursework from the Digital Nurture 5.0 Java FSE program.
+This repository is organized according to the Cognizant Digital Nurture 5.0 handbook using six development weeks and the corresponding technical modules.
 
-## Week-wise Progress
-- Week 1: Design Patterns
-- Week 2: Data Structures and Algorithms
-- Week 3: PL/SQL Programming
-- Week 4: Test Driven Development and Logging
+## Structure
+- Week 1: Engineering Concepts
+- Week 2: Programming Languages
+- Week 3: Spring Core
+- Week 4: Backend Development
+- Week 5: Advanced Development
+- Week 6: Frontend and Cloud
 
-## Prerequisites
-- JDK 17
-- Oracle SQL Developer
-- Maven
-- Git
-- VS Code
-
-## Tools Used
-- Java
-- SQL
-- Maven
-- Git
-- VS Code
-
-## Repository Structure
-- Week 1: Module 1 Design Patterns
-- Week 2: Module 2 DSA
-- Week 3: Module 3 PL/SQL Programming
-- Week 4: Module 4 TDD and Logging
-
+## Notes
+- Existing exercises were preserved in their respective module folders.
+- Placeholder module folders were added for the later handbook modules.
