@@ -1,24 +1,79 @@
-Digital Nurture 5.0 Java FSE
+# Digital Nurture 5.0 – Java Full Stack Engineer----BANDLAPALLI BHANUTEJA REDDY
 
-Week 1
 
-Week 2
+This repository contains my hands-on exercises, practice programs, and projects completed during the Cognizant Digital Nurture 5.0 Java Full Stack Engineer learning program.
 
-Week 3
+## Repository Structure
 
-Week 4
+```
+Week-1/
+Week-2/
+Week-3/
+Week-4/
+Week-5/
+Week-6/
+Week-7/
+```
 
-Week 5
+## Weekly Learning
 
-Week 6
+### Week 1
+- Design Patterns and Principles
+- Data Structures and Algorithms
+- PL/SQL Programming
 
-Week 7
+### Week 2
+- Test Driven Development
+- Logging Framework
+- Spring Core
+- Maven
 
-This repository contains the exercises completed during the Digital Nurture 5.0 training program.
+### Week 3
+- Spring Data JPA
+- Hibernate
+- Code Quality
 
-### Note on Structure
-The week grouping follows the sequential progression presented in the handbook. 
-Additionally, please note that the official handbook contains a duplicate numbering for Module 6 (Spring Data JPA and Code Quality); the numbering in this repository reflects the handbook exactly.
-Because the official `DN - Java FSE Mandatory hands-on detail.xlsx` was unavailable, the exercise folder names were derived directly from the exact Key Topics provided in the handbook to ensure no content was invented.
+### Week 4
+- Spring REST
+- Microservices
 
-*Exercise folder names for modules without official hands-on documentation are derived from the corresponding handbook topics. Existing implementations have been preserved wherever available.*
+### Week 5
+- React
+- Application Debugging
+
+### Week 6
+- Git
+- DevOps
+- Docker
+
+### Week 7
+- Agile Methodology
+- Cloud Fundamentals
+- Generative AI Fundamentals
+
+## Technologies Used
+
+- Java
+- Spring Boot
+- Spring Data JPA
+- Hibernate
+- Maven
+- JUnit 5
+- Mockito
+- SLF4J
+- PL/SQL
+- React
+- Git
+- Docker
+
+## Repository Contents
+
+Each week contains:
+- Module-wise exercises
+- Practice programs
+- Source code
+- Configuration files
+- Module documentation
+
+---
+Developed as part of the Cognizant Digital Nurture 5.0 Java Full Stack Engineer program.
