@@ -1,4 +1,15 @@
-# Module 2 - Data Structures and Algorithms
+# Module 2 Data Structures and Algorithms
 
-This module contains the hands-on exercises and practice work for Module 2 - Data Structures and Algorithms.
+## Topics Covered
+- Analysis of Algorithms
+- Sorting
+- Arrays
+- Linked List
+- Searching
 
+## Exercises Included
+- Analysis-of-Algorithms
+- Sorting
+- Arrays
+- Linked-List
+- Searching

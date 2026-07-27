@@ -1,15 +1,24 @@
-# Digital Nurture 5.0
+Digital Nurture 5.0 Java FSE
 
-This repository is organized according to the Cognizant Digital Nurture 5.0 handbook using six development weeks and the corresponding technical modules.
+Week 1
 
-## Structure
-- Week 1: Engineering Concepts
-- Week 2: Programming Languages
-- Week 3: Spring Core
-- Week 4: Backend Development
-- Week 5: Advanced Development
-- Week 6: Frontend and Cloud
+Week 2
 
-## Notes
-- Existing exercises were preserved in their respective module folders.
-- Placeholder module folders were added for the later handbook modules.
+Week 3
+
+Week 4
+
+Week 5
+
+Week 6
+
+Week 7
+
+This repository contains the exercises completed during the Digital Nurture 5.0 training program.
+
+### Note on Structure
+The week grouping follows the sequential progression presented in the handbook. 
+Additionally, please note that the official handbook contains a duplicate numbering for Module 6 (Spring Data JPA and Code Quality); the numbering in this repository reflects the handbook exactly.
+Because the official `DN - Java FSE Mandatory hands-on detail.xlsx` was unavailable, the exercise folder names were derived directly from the exact Key Topics provided in the handbook to ensure no content was invented.
+
+*Exercise folder names for modules without official hands-on documentation are derived from the corresponding handbook topics. Existing implementations have been preserved wherever available.*
